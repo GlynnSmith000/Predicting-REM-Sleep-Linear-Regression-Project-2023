@@ -24,7 +24,7 @@ This project explores the relationship between exercise frequency and REM sleep 
 - Created the dependent variable `REM sleep time` using available sleep metrics.
 - Applied log transformation to normalize the dependent variable.
 
-#### Figure 1: Log Transformd Preliminary Model Residual Diagnostics
+#### Figure 1: Log Transformd Preliminary Model's Residual Diagnostics
 ![image](https://github.com/user-attachments/assets/aab52a04-b646-48c5-b55c-26b9109a3128)
 
 
@@ -64,7 +64,7 @@ The final model predicts log-transformed REM sleep duration using the following 
   - **Alcohol consumption (6.98%)**
   - **Smoking status (4.08%)**
 - The final model explains **25.17%** of the variance in REM sleep duration (R² = 0.2517).
-#### Figure 4: Final Model Residual Diagnostics
+#### Figure 4: Final Model's Residual Diagnostics
 ![image](https://github.com/user-attachments/assets/7aa62dce-c591-4d3f-9825-00264c074421)
 
 
